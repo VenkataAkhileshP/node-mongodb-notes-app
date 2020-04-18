@@ -2,7 +2,7 @@
   "name": "node-mongodb-notes-app",
   "version": "1.0.0",
   "description": "CRUD API application with Node.js, Express and MongoDB for Beginners",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
